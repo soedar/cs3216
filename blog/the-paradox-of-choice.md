@@ -1,4 +1,4 @@
-# The paradox of choice
+# The Paradox of Choice
 - soedar
 - soedarsono
 - 2013/08/21
@@ -23,24 +23,29 @@ Like the real world, information is not perfect. We can hardly predict the futur
 - RSS Feed (PHEW! Dropplets auto generated the RSS feed.)
 - Comments (Twitter driven comments... hmm. I hope it will do. Or I probably have to integrate discuz. ) (P.S. Prof Colin, would Twitter driven comments be ok? :p)
 
-Barry Schwartz has an excellent TED talk (I have shamelessly stole his title), titled [The paradox of choice](http://www.ted.com/talks/barry_schwartz_on_the_paradox_of_choice.html/ "The paradox of choice"). Using somewhat dramatic and exaggerated examples, he illustrates how having more and more choice actually makes us unhappy. In particular, we now blame ourselves for choosing an imperfect option, instead of blaming the world for not having a perfect one.
+Barry Schwartz has an excellent TED talk (I have shamelessly stole his title), titled [**The Paradox of Choice**](http://www.ted.com/talks/barry_schwartz_on_the_paradox_of_choice.html/ "The Paradox of Choice"). Using somewhat dramatic and exaggerated examples, he illustrates how having more and more choice actually makes us unhappy. In particular, we now blame ourselves for choosing an imperfect option, instead of blaming the world for not having a perfect one.
 
-The reason I raised this up is that I believe everyone will inevitably run into this problem. With more and more available options out there, it becomes harder and harder to choose. Inevitably, our team ran into this problem when we are deciding which backend/middleware solution we wish to employ.
+The reason I raised this up is that I believe everyone will inevitably run into this problem. With more and more available options out there, it becomes harder and harder to choose. Unsurprisingly, our team ran into this problem when we are deciding which backend/middleware solution we wish to employ.
 
-For the backend/middleware, from the top of my head, we have:
+For the backend/middleware, from the top of my head, we have:  
+
 - Python
 	- Django
 	- Flask
+
 - Ruby
 	- Rails
 	- Padrino
+
 - node.js
 	- Express
 	- Sails.js
+
 - PHP
 	- Vanilla/Roll-your-own (omg the *horror*)
 	- CakePHP
 	- CodeIgniter
+
 - Java (I actually think static typing is a good idea. Sue me.)
 
 So many choices! And I'm not even trying to be comprehensive. I'm pretty sure if you Google your favorite language and web framework, it is probably a good bet that there would be substantial list of projects in various stages of maturity and popularity. 
